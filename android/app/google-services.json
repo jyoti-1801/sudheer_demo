@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "699447029277",
+    "project_id": "skp-project-ee75b",
+    "storage_bucket": "skp-project-ee75b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699447029277:android:1dc46581f5c0705384a0f4",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699447029277-vrkj62rum3f5u5s0d8sf76jnieuq9cab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skpapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "699447029277-e1ei8pr5ndjq71h1tbbnjuj7sco4m1uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh7NbebQPM4tyeBrwGNfAYaxQdeaHbpho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699447029277-e1ei8pr5ndjq71h1tbbnjuj7sco4m1uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699447029277-he4ngaj4oqanrul3uandhsq5grfcrc2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skpproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
